@@ -420,6 +420,9 @@ color: #2196F3
 }
  
 /* кнопки галереии */
+.galerry > .container {
+  padding: 94px 15px;
+  }
 .galerry-btn {
   font-family: var(--main-font);
   color: #212121;
@@ -493,9 +496,6 @@ letter-spacing: 0.03em;
     justify-content: center;
     flex-wrap: wrap;
 }
-.galerry > .container {
-  padding: 94px 15px;
-  }
 
 .galerry-card {
   margin-bottom: 30px;
